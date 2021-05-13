@@ -2,7 +2,7 @@
 
 int main ()
 {
-    /* Martínez Lira Irak Emmanuel 4IV17
+    /* Sinto Uribe Omar Andres 4IV17
        */
 
     float primer, segundo, multiplica, division;
